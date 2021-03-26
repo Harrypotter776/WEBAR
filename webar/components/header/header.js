@@ -33,6 +33,7 @@ class PageHeader extends HTMLElement {
                     color: black;
                 }
 
+
                 .minor-text {
                     font-size: 1em;
                 }
